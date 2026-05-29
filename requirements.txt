@@ -1,0 +1,12 @@
+faiss-cpu
+sentence-transformers
+fairlearn
+transformers
+torch
+datasets
+matplotlib
+pandas
+numpy
+scikit-learn
+notebook
+seaborn
